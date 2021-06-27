@@ -8,6 +8,8 @@ My task was to build the back end for an e-commerce site by modifying starter co
 
 Because this application won’t be deployed, I also needed to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
 
-Walkthrough Video [to be linked here]
+[Video Walkthrough](https://drive.google.com/file/d/1i--aRjRk5YGkM8Bm2io15544wViUPLXR/view?usp=sharing)
+
+
 
 
